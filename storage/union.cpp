@@ -21,8 +21,6 @@ namespace Color
     };
 };
 
-
-//
 /**
  * @brief 上述如果 using namespace Color 后，前缀还可以省去，使得代码简化。
  * 不过，因为命名空间是可以随后被扩充内容的，所以它提供的作用域封闭性不高。
